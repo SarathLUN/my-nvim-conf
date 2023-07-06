@@ -265,6 +265,10 @@ local default_plugins = {
       require("which-key").setup(opts)
     end,
   },
+  {
+    "iamcco/markdown-preview.nvim",
+    run = function() vim.fn["mkdp#util#install"]() end,
+  }
 }
 
 local config = require("core.utils").load_config()
