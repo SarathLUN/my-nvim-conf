@@ -89,3 +89,17 @@ nvim -v
 > The computing scientist's main challenge is not to get confused by the complexities of his own making. 
 
 \- Edsger W. Dijkstra
+
+### My Installation:
+
+- [javac & java](https://www.oracle.com/java/technologies/downloads/#jdk20-mac)
+- **PHP** `brew install php`
+- [composer](https://getcomposer.org/download/)
+- **luarocks** `brew install luarocks`
+- **julia** : `brew install julia`
+- **wget** : `brew install wget`
+- **prettier** : `brew install prettier`
+- **black** : `brew install black`
+- **stylua** : `brew install stylua`
+- **pynvim** : `pip install pynvim`
+- **neovim** : `npm i -g neovim`
